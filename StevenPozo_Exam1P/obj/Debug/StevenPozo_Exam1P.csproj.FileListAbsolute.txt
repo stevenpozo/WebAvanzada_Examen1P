@@ -1,0 +1,7 @@
+D:\5. Quinto semestre\1. Desarrollo web avanzado\Primer parcial\6. examen\StevenPozo_Exam1P\bin\Debug\StevenPozo_Exam1P.exe.config
+D:\5. Quinto semestre\1. Desarrollo web avanzado\Primer parcial\6. examen\StevenPozo_Exam1P\bin\Debug\StevenPozo_Exam1P.exe
+D:\5. Quinto semestre\1. Desarrollo web avanzado\Primer parcial\6. examen\StevenPozo_Exam1P\bin\Debug\StevenPozo_Exam1P.pdb
+D:\5. Quinto semestre\1. Desarrollo web avanzado\Primer parcial\6. examen\StevenPozo_Exam1P\obj\Debug\StevenPozo_Exam1P.csproj.AssemblyReference.cache
+D:\5. Quinto semestre\1. Desarrollo web avanzado\Primer parcial\6. examen\StevenPozo_Exam1P\obj\Debug\StevenPozo_Exam1P.csproj.CoreCompileInputs.cache
+D:\5. Quinto semestre\1. Desarrollo web avanzado\Primer parcial\6. examen\StevenPozo_Exam1P\obj\Debug\StevenPozo_Exam1P.exe
+D:\5. Quinto semestre\1. Desarrollo web avanzado\Primer parcial\6. examen\StevenPozo_Exam1P\obj\Debug\StevenPozo_Exam1P.pdb
